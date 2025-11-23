@@ -1,7 +1,7 @@
 
 
 describe('Test de connexion', () => {
-  it('En tant que utilisateur je veux pouvoir me connecter à mon compte', () => {
+  it('En tant que utilisateur je veuxmm pouvoir me connecter à mon compte', () => {
     
     // vist the page
     cy.visit(' http://localhost:4200');
